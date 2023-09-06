@@ -16,9 +16,9 @@
 
 * [🛠 Règlement Ingame](serveur-ingame/getting-set-up/README.md)
   * [📝 Comportement](serveur-ingame/getting-set-up/setting-permissions.md)
-  * [🧑 Spécificités](serveur-ingame/getting-set-up/inviting-members.md)
+  * [🧑 Spécificités & Open Source](serveur-ingame/getting-set-up/inviting-members.md)
 
-## Use Cases
+## 🏵 Membres du staff
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [🎨 Haut Gradés](membres-du-staff/for-designers.md)
+* [🖥 Gradés](membres-du-staff/for-developers.md)

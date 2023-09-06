@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Bienvenue sur le règlement de Luminia](README.md)
+* [👋 Règlement de LuminiaMC](README.md)
 
 ## 🌵 PRÉAMBULE
 

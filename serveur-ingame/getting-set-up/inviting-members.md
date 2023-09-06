@@ -15,3 +15,5 @@ Ce n'est pas parce que certains travaux de Luminia sont OpenSource que cela sign
 {% hint style="info" %}
 **Information :** LuminiaMC est une infrastucture protégé par DCMA. Tout vol entrainera une poursuite aux autorités compétentes.
 {% endhint %}
+
+{% embed url="https://github.com/LuminiaMC" %}

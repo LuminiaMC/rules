@@ -2,15 +2,15 @@
 
 * [👋 Bienvenue sur le règlement de Luminia](README.md)
 
-## Overview
+## 🌵 PRÉAMBULE
 
-* [💡 Pourquoi avons-nous instauré des règles ?](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 Pourquoi avons-nous instauré des règles ?](preambule/what-we-do.md)
+* [✨ Généralités - Chapitre 1](preambule/our-features.md)
 
-## Product Guides
+## 📫 Serveur Discord
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📪 Chapitre 2 - Comportement & attitude](serveur-discord/making-a-post.md)
+* [📎 Understanding Projects](serveur-discord/understanding-projects.md)
 
 ## Fundamentals
 

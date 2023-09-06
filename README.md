@@ -1,3 +1,3 @@
 # 👋 Bienvenue sur le règlement de Luminia
 
-1.Ingame - 2.Discord - 3.Forum
+Merci de lire le règlement qui suit. Lors de votre première connexion au serveur et/ou de votre premier message envoyé sur le serveur Discord, ce règlement est considéré comme lu et accepté.

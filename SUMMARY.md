@@ -10,13 +10,13 @@
 ## 📫 Serveur Discord
 
 * [📪 Chapitre 2 - Comportement & attitude](serveur-discord/making-a-post.md)
-* [📎 Understanding Projects](serveur-discord/understanding-projects.md)
+* [📎 Chapitre 3 - Rapport entre Staff et membres](serveur-discord/understanding-projects.md)
 
-## Fundamentals
+## ☮ Serveur Ingame
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🛠 Règlement Ingame](serveur-ingame/getting-set-up/README.md)
+  * [📝 Comportement](serveur-ingame/getting-set-up/setting-permissions.md)
+  * [🧑 Spécificités](serveur-ingame/getting-set-up/inviting-members.md)
 
 ## Use Cases
 

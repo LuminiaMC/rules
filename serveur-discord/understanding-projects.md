@@ -1,21 +1,13 @@
-# 📎 Understanding Projects
+---
+description: Règles concernant notre serveur Discord.
+---
 
-## How Projects work
+# 📎 Chapitre 3 - Rapport entre Staff et membres
 
-Nullam quis risus eget urna mollis ornare vel eu leo. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
+**Article 1** : En cas de conflit avec un membre du staff et/ou un autre utilisateur, vous devez impérativement signaler ce conflit à un Responsable/Administrateur, aucun conflit ne doit affecter nos channels.
 
-### The Basics
+**Article 2** : Notre administration se garde le droit de placer en liste noire (BlackList) certains utilisateurs indésirables en cas extrêmes. Il n'y aura aucun retrait de membre de cette dite blacklist, et lorsqu'un utilisateur s'y trouve, il ne pourra plus accéder à notre infrastructure.
 
-Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+**Article 3** : En cas de situations extrêmes, un membre de notre Administration peut définir un membre du serveur comme étant inopportun, nous nous réservons alors le droit de refuser complètement / temporairement / partiellement l'accès au contenu de notre infrastructure à cet individu et ce, sans avoir à se justifier.
 
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-
-### Creating a Project
-
-Nullam quis risus eget urna mollis ornare vel eu leo. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-
-### Organizing your Projects
-
-Sed posuere consectetur est at lobortis. Curabitur blandit tempus porttitor. Donec ullamcorper nulla non metus auctor fringilla. Donec sed odio dui.
-
-Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+**Article 4** : Évitez au possible de @mentionner ou envoyer un message privé à notre personnel. Nous sommes humains, avons une vie et ne pouvons pas toujours répondre dans la minute, ouvrez un ticket et soyez patients.

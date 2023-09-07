@@ -19,7 +19,7 @@ Toutes les excuses du type "je ne savais pas que \[...] était inscrit dans le r
 
 **Article 6** : Veillez à faire en sorte que le serveur reste adapté à tous les âges. Minecraft est un jeu PEGI 7 (déconseillé aux enfants de moins de 7 ans), il y a donc forcément une certaine partie des joueurs étant très jeune. Soyez des exemples pour eux, et ne leur montrez pas le pire de l'être humain.
 
-**Article 7** : L'achat d'un grade, de cosmétiques, de montures ou diverses autres ressources ne vous exempt pas du présent règlement. Vous aurez les mêmes sanctions qu'un joueur lambda, même en ayant payé. Réfléchissez à deux fois avant d'avoir un mauvais comportement, surtout si vous avez un compte avec du contenu payant.
+**Article 7** : L'achat d'un grade, de cosmétiques, de montures ou diverses autres ressources ne vous exempte pas du présent règlement. Vous aurez les mêmes sanctions qu'un joueur lambda, même en ayant payé. Réfléchissez à deux fois avant d'avoir un mauvais comportement, surtout si vous avez un compte avec du contenu payant.
 
 ## Grades
 

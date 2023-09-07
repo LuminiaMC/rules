@@ -13,7 +13,7 @@ Toutes les excuses du type "je ne savais pas que \[...] était inscrit dans le r
 
 **Article 3** : Veillez à toujours avoir un comportement fairplay et amical. Les joueurs sont tous humains derrière leurs écrans, et méritent tout votre respect.
 
-**Article 4** : Toute les formes de triche sont interdites et bannies. Si vous êtes suspectés de tricher sur notre serveur, vous serez bannis sans préavis.
+**Article 4** : Toutes les formes de triche sont interdites et bannies. Si vous êtes suspectés de tricher sur notre serveur, vous serez bannis sans préavis.
 
 **Article 5** : Nous condamnons toutes formes d'irrespect envers un membre du staff. Si vous n'êtes pas d'accord avec une décision prise par nos équipes, il suffit simplement de communiquer et de demander à être entendu, c'est votre droit.
 

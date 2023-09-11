@@ -18,6 +18,10 @@
   * [📝 Comportement](serveur-ingame/getting-set-up/setting-permissions.md)
   * [🧑 Spécificités & Open Source](serveur-ingame/getting-set-up/inviting-members.md)
 
+## 📌 Informations complémentaires
+
+* [👾 Informations complémentaires](informations-complementaires/understanding-projects.md)
+
 ## 🏵 Membres du staff
 
 * [🎨 Haut Gradés](membres-du-staff/for-designers.md)
